@@ -1,0 +1,20 @@
+.pupAirportTitle {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 7vh;
+    text-align: center;
+    background-color: #880015;
+}
+
+.optionsTitle {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.flightLogsTitle {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 4vh;
+    text-align: center;
+}
